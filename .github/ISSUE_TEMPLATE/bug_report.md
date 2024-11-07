@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Configuration: Please provide the following**
- - Azure OpenAI model name and version (e.g. 'gpt-35-turbo-16k, version 0613')
+ - Azure OpenAI model name and version (e.g. 'gpt-4o, version 0613')
  - Is chat history enabled?
  - Are you using data? If so, what data source? (e.g. Azure AI Search, Azure CosmosDB Mongo vCore, etc)
 - Verify the startup command and runtime configuration by showing the output of the following az CLI command:
